@@ -415,9 +415,11 @@ let s:tlist_def_html_settings = 'html;a:anchor;f:javascript function'
 " java language
 let s:tlist_def_java_settings = 'java;p:package;c:class;i:interface;' .
                               \ 'f:field;m:method'
-
 " javascript language
 let s:tlist_def_javascript_settings = 'javascript;f:function'
+
+" julia language
+let s:tlist_def_julia_settings = 'julia;f:function'
 
 " lisp language
 let s:tlist_def_lisp_settings = 'lisp;f:function'
